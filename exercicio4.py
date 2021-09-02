@@ -12,7 +12,7 @@ p3 = premiofinal-(p1+p2)
 
 print("O valor total do premio foi de: R${}".format(premio))
 print("O valor do premio com impostos é de: R${:.2f}".format(premiofinal))
-print("O valor final do premio foi de: R${:.2f}".format(desconto))
+print("O valor final do desconto foi de: R${:.2f}".format(desconto))
 print("O primeiro ganhador ganhou: R${:.2f}".format(p1))
 print("O segundo ganhador ganhou: R${:.2f}".format(p2))
 print("O terceiro ganhador : R${:.2f}".format(p3))
