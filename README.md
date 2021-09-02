@@ -1,2 +1,2 @@
-<h1 align = "center">Curso Técnico Informatica</h1>
+<h1 align = "center"><img src ="https://www1.satc.edu.br/parcelamento_satc/assets/img/logotipo_horizontal.png" widht= 70 height= 65 align="left">Curso Técnico Informatica</h1>
 ![](https://www1.satc.edu.br/parcelamento_satc/assets/img/logotipo_horizontal.png)
